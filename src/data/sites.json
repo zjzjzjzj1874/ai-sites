@@ -15,7 +15,7 @@
     "name": "ChatGPT",
     "url": "https://chat.openai.com",
     "icon": "https://chat.openai.com/favicon.ico",
-    "priority": 1
+    "priority": 5
   },
   {
     "name": "翻译",
