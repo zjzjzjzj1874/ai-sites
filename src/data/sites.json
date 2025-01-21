@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Claude AI",
+    "url": "https://claude.ai/chat/b0594409-5c9d-4bdd-83d8-440f8e67efb5",
+    "icon": "https://claude.ai/favicon.ico",
+    "priority": 1
+  },
+  {
+    "name": "Poe",
+    "url": "https://poe.com/chat/1y6kxkn1v2vtx5m4wyj",
+    "icon": "https://psc2.cf2.poecdn.net/assets/favicon.svg",
+    "priority": 1
+  },
+  {
+    "name": "ChatGPT",
+    "url": "https://chat.openai.com",
+    "icon": "https://chat.openai.com/favicon.ico",
+    "priority": 1
+  },
+  {
+    "name": "翻译",
+    "url": "https://fanyi.baidu.com/mtpe-individual/multimodal#/",
+    "icon": "https://fanyi.baidu.com/favicon.ico",
+    "priority": 2
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com",
+    "icon": "https://github.com/favicon.ico",
+    "priority": 0
+  },
+  {
+    "name": "知乎",
+    "url": "https://www.zhihu.com",
+    "icon": "https://static.zhihu.com/heifetz/favicon.ico",
+    "priority": 0
+  },
+  {
+    "name": "Leetcode",
+    "url": "https://leetcode.cn/problemset/",
+    "icon": "https://leetcode.cn/favicon.ico",
+    "priority": 0
+  },
+  {
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com",
+    "icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico",
+    "priority": 0
+  },
+  {
+    "name": "阮一峰周刊",
+    "url": "https://github.com/ruanyf/weekly/",
+    "icon": "https://avatars.githubusercontent.com/u/905434?v=4&size=40",
+    "priority": 0
+  },
+  {
+    "name": "AI搜索Hika",
+    "url": "https://hika.fyi/",
+    "icon": "https://hika.fyi/favicon.ico",
+    "priority": 0
+  },
+  {
+    "name": "YouTube",
+    "url": "https://www.youtube.com",
+    "icon": "https://www.youtube.com/favicon.ico",
+    "priority": 0
+  },
+  {
+    "name": "Twitter",
+    "url": "https://twitter.com",
+    "icon": "https://twitter.com/favicon.ico",
+    "priority": 0
+  }
+]
